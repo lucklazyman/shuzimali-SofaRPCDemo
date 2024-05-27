@@ -1,0 +1,7 @@
+2024-05-27 12:47:16,328 INFO  [ConnectionEventHandler#299] [bolt-netty-client-worker-1-thread-1] Connection channel registered: UNKNOWN-ADDR
+2024-05-27 12:47:16,328 INFO  [ConnectionEventHandler#80] [bolt-netty-client-worker-1-thread-1] Try connect to 10.138.6.95:12200
+2024-05-27 12:47:16,331 INFO  [ConnectionEventHandler#297] [bolt-netty-client-worker-1-thread-1] Connection channel active: 10.138.6.95:12200
+2024-05-27 12:47:16,336 INFO  [ConnectionEventHandler#175] [bolt-netty-client-worker-1-thread-1] trigger user event, local[10.138.6.95:61007], remote[10.138.6.95:12200], event: CONNECT
+2024-05-27 12:47:16,348 INFO  [ConnectionEventHandler#175] [Rpc-netty-server-worker-1-thread-1] trigger user event, local[10.138.6.95:12200], remote[10.138.6.95:61007], event: CONNECT
+2024-05-27 12:47:16,349 INFO  [ConnectionEventHandler#297] [Rpc-netty-server-worker-1-thread-1] Connection channel registered: 10.138.6.95:61007
+2024-05-27 12:47:16,349 INFO  [ConnectionEventHandler#297] [Rpc-netty-server-worker-1-thread-1] Connection channel active: 10.138.6.95:61007

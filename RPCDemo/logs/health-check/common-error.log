@@ -1,0 +1,5 @@
+2024-05-27 12:47:37,814 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1353775377":"passed"}; strict mode:true
+2024-05-27 12:47:37,814 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 12:47:37,825 ERROR main                             - Readiness check result: fail
+2024-05-27 12:47:38,935 ERROR RMI TCP Connection(4)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1353775377":"passed"}; strict mode:true
+2024-05-27 12:47:38,946 ERROR RMI TCP Connection(4)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.

@@ -1,0 +1,13 @@
+2024-05-27 12:45:52,924 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:24372
+2024-05-27 12:45:52,938 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 12:45:52,953 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 12:45:53,667 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 12:45:53,667 INFO  main                             - Install Module: sofaTracer
+2024-05-27 12:45:53,677 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 12:46:22,738 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 12:47:08,883 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:10320
+2024-05-27 12:47:08,891 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 12:47:08,900 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 12:47:09,564 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 12:47:09,564 INFO  main                             - Install Module: sofaTracer
+2024-05-27 12:47:09,599 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0

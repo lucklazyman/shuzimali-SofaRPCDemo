@@ -1,0 +1,53 @@
+2024-05-27 12:45:53,729 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2024-05-27 12:45:53,730 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2024-05-27 12:45:53,730 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2024-05-27 12:45:53,731 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2024-05-27 12:45:53,732 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check success with 0 retry.
+2024-05-27 12:45:53,732 INFO  main                             - SOFABoot HealthChecker readiness check result: success.
+2024-05-27 12:45:53,733 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2024-05-27 12:45:53,738 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2024-05-27 12:45:53,738 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2024-05-27 12:45:53,738 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2024-05-27 12:46:22,738 INFO  main                             - SOFABoot ReadinessCheckCallback[rpcAfterHealthCheckCallback] check success.
+2024-05-27 12:46:22,738 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2024-05-27 12:46:22,738 INFO  main                             - Readiness check result: success
+2024-05-27 12:46:23,912 INFO  RMI TCP Connection(4)-26.113.100.101 - Begin SOFABoot HealthChecker liveness check.
+2024-05-27 12:46:23,913 INFO  RMI TCP Connection(4)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check success with 0 retry.
+2024-05-27 12:46:23,913 INFO  RMI TCP Connection(4)-26.113.100.101 - SOFABoot HealthChecker liveness check result: success.
+2024-05-27 12:47:17,549 INFO  main                             - Found 1 HealthChecker implementation:sofaComponentHealthChecker
+2024-05-27 12:47:17,550 INFO  main                             - Found 3 HealthIndicator implementation:sofaBootHealthIndicator,sofaComponentHealthIndicator,diskSpaceHealthIndicator
+2024-05-27 12:47:17,550 INFO  main                             - Found 1 ReadinessCheckCallback implementation: rpcAfterHealthCheckCallback
+2024-05-27 12:47:17,550 INFO  main                             - Begin SOFABoot HealthChecker readiness check.
+2024-05-27 12:47:17,551 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 0 retry.
+2024-05-27 12:47:18,560 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 1 retry.
+2024-05-27 12:47:19,568 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 2 retry.
+2024-05-27 12:47:20,582 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 3 retry.
+2024-05-27 12:47:21,594 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 4 retry.
+2024-05-27 12:47:22,611 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 5 retry.
+2024-05-27 12:47:23,622 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 6 retry.
+2024-05-27 12:47:24,636 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 7 retry.
+2024-05-27 12:47:25,649 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 8 retry.
+2024-05-27 12:47:26,654 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 9 retry.
+2024-05-27 12:47:27,658 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 10 retry.
+2024-05-27 12:47:28,673 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 11 retry.
+2024-05-27 12:47:29,682 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 12 retry.
+2024-05-27 12:47:30,697 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 13 retry.
+2024-05-27 12:47:31,709 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 14 retry.
+2024-05-27 12:47:32,724 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 15 retry.
+2024-05-27 12:47:33,734 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 16 retry.
+2024-05-27 12:47:34,749 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 17 retry.
+2024-05-27 12:47:35,763 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 18 retry.
+2024-05-27 12:47:36,776 INFO  main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 19 retry.
+2024-05-27 12:47:37,814 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1353775377":"passed"}; strict mode:true
+2024-05-27 12:47:37,814 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 12:47:37,814 INFO  main                             - Begin SOFABoot HealthIndicator readiness check.
+2024-05-27 12:47:37,819 INFO  main                             - HealthIndicator[diskSpaceHealthIndicator] readiness check success.
+2024-05-27 12:47:37,819 INFO  main                             - SOFABoot HealthIndicator readiness check result: success.
+2024-05-27 12:47:37,819 INFO  main                             - Begin ReadinessCheckCallback readiness check
+2024-05-27 12:47:37,825 INFO  main                             - SOFABoot ReadinessCheckCallback[rpcAfterHealthCheckCallback] check success.
+2024-05-27 12:47:37,825 INFO  main                             - ReadinessCheckCallback readiness check result: success.
+2024-05-27 12:47:37,825 ERROR main                             - Readiness check result: fail
+2024-05-27 12:47:38,935 INFO  RMI TCP Connection(4)-26.113.100.101 - Begin SOFABoot HealthChecker liveness check.
+2024-05-27 12:47:38,935 INFO  RMI TCP Connection(4)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry.
+2024-05-27 12:47:38,935 ERROR RMI TCP Connection(4)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1353775377":"passed"}; strict mode:true
+2024-05-27 12:47:38,946 ERROR RMI TCP Connection(4)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.

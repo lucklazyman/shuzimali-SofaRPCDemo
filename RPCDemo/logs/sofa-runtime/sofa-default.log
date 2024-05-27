@@ -1,0 +1,17 @@
+2024-05-27 12:45:50,232 INFO  main                             - SOFABoot Runtime Starting!
+2024-05-27 12:45:51,760 INFO  main                             - Registering component: reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042
+2024-05-27 12:45:51,760 INFO  main                             -  >>In Binding [jvm] Begins - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:45:51,762 INFO  main                             -  >>In Binding [jvm] Ends - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:45:52,886 INFO  main                             - Registering component: service:com.alipay.sofa.rpc.samples.annotation.AnnotationService
+2024-05-27 12:45:52,896 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:45:53,673 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:45:53,673 INFO  main                             -  <<Out Binding [bolt] Begins - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:45:53,709 INFO  main                             -  <<Out Binding [bolt] Ends - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:45:53,709 INFO  main                             - Register Service - com.alipay.sofa.rpc.samples.annotation.AnnotationService
+2024-05-27 12:47:07,446 INFO  main                             - SOFABoot Runtime Starting!
+2024-05-27 12:47:08,832 INFO  main                             - Registering component: reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1353775377
+2024-05-27 12:47:08,833 INFO  main                             -  >>In Binding [bolt] Begins - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:47:16,511 INFO  main                             -  >>In Binding [bolt] Ends - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:47:16,513 INFO  main                             - Registering component: reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042
+2024-05-27 12:47:16,513 INFO  main                             -  >>In Binding [jvm] Begins - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
+2024-05-27 12:47:16,514 INFO  main                             -  >>In Binding [jvm] Ends - com.alipay.sofa.rpc.samples.annotation.AnnotationService.
