@@ -1,0 +1,34 @@
+2024-05-27 13:12:42,435 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 13:12:42,439 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:14:28,752 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:34:07,560 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:34:31,925 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:34:31,932 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:36:10,523 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:36:10,525 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:37:12,266 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:43:52,766 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:43:54,029 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:51:23,513 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 14:51:30,592 WARN  SOFA-CLI-RC-com.alipay.sofa.rpc.samples.annotation.AnnotationService-2-T1 com.alipay.sofa.rpc.transport.bolt.ReuseBoltClientConnectionManager - get connection failed in url,Origin url [bolt://10.138.6.95:12200?version=1.0&accepts=100000&appName=samples&weight=100&language=java&pid=22688&interface=com.alipay.sofa.rpc.samples.annotation.AnnotationService&timeout=3000&serialization=hessian2&protocol=bolt&delay=-1&dynamic=true&startTime=1716792508142&id=rpc-cfg-0&uniqueId=&rpcVer=50601], Unique key [10.138.6.95:12200].
+2024-05-27 14:51:32,642 WARN  SOFA-CLI-RC-com.alipay.sofa.rpc.samples.annotation.AnnotationService-2-T1 com.alipay.sofa.rpc.transport.bolt.ReuseBoltClientConnectionManager - get connection failed in url,Origin url [bolt://10.138.6.95:12200?version=1.0&accepts=100000&appName=samples&weight=100&language=java&pid=22688&interface=com.alipay.sofa.rpc.samples.annotation.AnnotationService&timeout=3000&serialization=hessian2&protocol=bolt&delay=-1&dynamic=true&startTime=1716792508142&id=rpc-cfg-0&uniqueId=&rpcVer=50601], Unique key [10.138.6.95:12200].
+2024-05-27 14:51:33,770 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 15:01:24,441 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 15:01:24,443 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 15:48:42,009 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 15:48:42,025 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:19:36,207 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:35:01,769 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:44:52,928 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:44:52,939 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:47:04,722 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:48:29,654 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:48:29,657 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:50:09,094 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 16:50:09,097 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 22:53:39,292 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 22:53:39,292 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 22:58:08,967 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 22:58:08,971 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 23:11:35,688 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!
+2024-05-27 23:12:47,213 INFO  SOFA-RPC-ShutdownHook            com.alipay.sofa.rpc.transport.ClientTransportFactory - Shutdown all client transport now!

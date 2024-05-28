@@ -16,10 +16,13 @@
  */
 package com.alipay.sofa.rpc.samples.annotation;
 
+import org.springframework.stereotype.Service;
+
 /**
  *
  * @author <a href="mailto:lw111072@antfin.com">LiWei</a>
  */
+@Service
 public interface AnnotationService {
 
     String sayAnnotation(String stirng);

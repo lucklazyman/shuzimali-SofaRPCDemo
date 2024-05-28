@@ -11,3 +11,722 @@
 2024-05-27 12:47:09,564 INFO  main                             - The module lookout does not need to be loaded.
 2024-05-27 12:47:09,564 INFO  main                             - Install Module: sofaTracer
 2024-05-27 12:47:09,599 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 13:12:42,410 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 13:12:42,411 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 13:12:42,417 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 13:12:42,417 INFO  Thread-69                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 13:12:42,435 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 13:12:42,435 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 13:12:42,435 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 13:12:42,435 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 13:12:42,439 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 13:12:42,439 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 13:12:42,439 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 13:12:42,441 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:14:15,834 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:19056
+2024-05-27 14:14:15,849 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:14:15,864 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:14:16,575 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:14:16,575 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:14:16,585 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:14:26,639 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:14:28,732 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:14:28,733 INFO  Thread-33                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:14:28,752 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:14:28,752 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:14:28,752 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:14:28,752 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:30:25,524 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:17608
+2024-05-27 14:30:25,531 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:30:25,540 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:30:26,202 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:30:26,202 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:30:26,209 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:30:33,480 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:30:45,209 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:28912
+2024-05-27 14:30:45,217 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:30:45,226 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:30:45,897 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:30:45,898 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:30:45,915 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:34:07,534 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:34:07,535 INFO  Thread-27                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:34:07,560 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:34:07,560 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:34:07,560 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:34:07,560 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:34:13,646 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:29528
+2024-05-27 14:34:13,654 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:34:13,663 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:34:14,321 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:34:14,321 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:34:14,329 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:34:20,943 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:34:31,900 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:34:31,902 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:34:31,907 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:34:31,907 INFO  Thread-26                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:34:31,926 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:34:31,926 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:34:31,926 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:34:31,928 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:34:31,932 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:34:31,932 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:34:31,932 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:34:31,932 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:34:45,460 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:28844
+2024-05-27 14:34:45,467 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:34:45,475 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:34:46,140 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:34:46,140 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:34:46,147 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:34:53,106 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:35:02,299 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:13772
+2024-05-27 14:35:02,307 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:35:02,316 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:35:02,973 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:35:02,973 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:35:02,993 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:36:10,497 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:36:10,497 INFO  Thread-27                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:36:10,503 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:36:10,505 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:36:10,523 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:36:10,523 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:36:10,523 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:36:10,523 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:36:10,525 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:36:10,525 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:36:10,525 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:36:10,525 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:36:19,338 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:23792
+2024-05-27 14:36:19,347 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:36:19,360 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:36:19,415 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:36:19,415 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:36:19,425 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:36:19,427 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 14:36:24,997 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:36:33,377 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:24784
+2024-05-27 14:36:33,385 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:36:33,394 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:36:33,450 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:36:33,450 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:36:33,473 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:37:12,230 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:37:12,266 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:37:12,266 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:37:12,266 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:37:12,266 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:37:16,866 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:27772
+2024-05-27 14:37:16,874 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:37:16,886 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:37:17,599 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:37:17,599 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:37:17,617 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:43:52,748 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:43:52,748 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:43:52,766 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:43:52,766 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:43:52,766 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:43:52,766 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:43:54,004 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:43:54,005 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:43:54,029 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:43:54,029 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:43:54,030 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:43:54,031 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:44:08,357 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:17300
+2024-05-27 14:44:08,367 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:44:08,382 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:44:08,440 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:44:08,440 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:44:08,448 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:44:08,450 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 14:44:14,114 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:44:24,348 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:29908
+2024-05-27 14:44:24,356 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:44:24,369 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:44:25,063 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:44:25,063 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:44:25,080 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:48:22,104 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:22688
+2024-05-27 14:48:22,120 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:48:22,139 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:48:22,212 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:48:22,213 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:48:22,227 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:48:22,230 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 14:48:28,240 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:48:37,759 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:20068
+2024-05-27 14:48:37,767 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:48:37,776 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:48:38,406 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:48:38,406 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:48:38,423 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:51:23,479 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:51:23,480 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:51:23,513 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:51:23,513 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:51:23,513 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:51:23,513 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:51:33,746 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 14:51:33,746 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 14:51:33,770 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 14:51:33,770 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 14:51:33,770 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 14:51:33,772 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 14:56:02,154 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:15584
+2024-05-27 14:56:02,165 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:56:02,177 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:56:02,237 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:56:02,237 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:56:02,246 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 14:56:02,248 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 14:56:07,760 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 14:56:45,354 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:14448
+2024-05-27 14:56:45,366 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 14:56:45,379 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 14:56:46,135 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 14:56:46,135 INFO  main                             - Install Module: sofaTracer
+2024-05-27 14:56:46,152 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 15:01:24,409 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 15:01:24,410 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 15:01:24,414 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 15:01:24,414 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 15:01:24,441 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 15:01:24,441 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 15:01:24,441 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 15:01:24,441 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 15:01:24,443 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 15:01:24,443 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 15:01:24,443 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 15:01:24,444 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 15:45:45,481 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:30120
+2024-05-27 15:45:45,501 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 15:45:45,515 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 15:45:45,576 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 15:45:45,577 INFO  main                             - Install Module: sofaTracer
+2024-05-27 15:45:45,586 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 15:45:45,588 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 15:45:51,154 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 15:46:15,435 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:21652
+2024-05-27 15:46:15,445 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 15:46:15,456 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 15:46:16,177 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 15:46:16,177 INFO  main                             - Install Module: sofaTracer
+2024-05-27 15:46:16,192 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 15:48:42,002 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 15:48:42,002 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 15:48:42,006 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 15:48:42,008 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 15:48:42,017 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 15:48:42,017 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 15:48:42,017 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 15:48:42,017 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 15:48:42,025 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 15:48:42,025 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 15:48:42,025 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 15:48:42,025 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 15:50:09,706 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:10880
+2024-05-27 15:50:09,717 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 15:50:09,730 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 15:50:09,802 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 15:50:09,802 INFO  main                             - Install Module: sofaTracer
+2024-05-27 15:50:09,816 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 15:50:09,818 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 15:50:12,840 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:25412
+2024-05-27 15:50:12,849 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 15:50:12,859 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 15:50:13,540 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 15:50:13,540 INFO  main                             - Install Module: sofaTracer
+2024-05-27 15:50:13,556 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 15:50:15,769 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 16:19:36,205 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:19:36,206 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 16:19:36,208 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:19:36,208 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:19:36,208 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:19:36,208 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:19:44,923 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:33520
+2024-05-27 16:19:44,932 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:19:44,943 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:19:45,677 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:19:45,677 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:19:45,696 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 16:35:01,767 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:35:01,768 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService: with bean id rpc-cfg-0
+2024-05-27 16:35:01,769 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:35:01,769 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:35:01,769 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:35:01,771 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:35:11,020 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:32272
+2024-05-27 16:35:11,029 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:35:11,040 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:35:11,791 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:35:11,791 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:35:11,810 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:44:52,869 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:44:52,870 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:44:52,877 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:44:52,888 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService::bolt with bean id rpc-cfg-0
+2024-05-27 16:44:52,929 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:44:52,929 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:44:52,929 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:44:52,929 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:44:52,939 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:44:52,940 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:44:52,940 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:44:52,940 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:45:04,750 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:30552
+2024-05-27 16:45:04,764 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:45:04,779 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:45:04,855 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:45:04,855 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:45:04,865 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 16:45:04,868 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 16:45:10,575 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 16:45:14,477 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:11376
+2024-05-27 16:45:14,489 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:45:14,505 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:45:15,452 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:45:15,452 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:45:15,474 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:47:04,651 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:47:04,654 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:47:04,722 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:47:04,723 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:47:04,723 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:47:04,723 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:47:24,369 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:32772
+2024-05-27 16:47:24,386 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:47:24,409 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:47:26,102 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:47:26,102 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:47:26,138 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:47:38,403 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 16:48:29,576 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:48:29,578 INFO  SOFA-RPC-ShutdownHook            - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 16:48:29,578 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:48:29,589 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:48:29,593 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 16:48:29,654 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:48:29,655 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:48:29,655 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:48:29,655 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:48:29,657 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:48:29,657 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:48:29,657 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:48:29,658 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:48:42,677 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:25376
+2024-05-27 16:48:42,701 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:48:42,723 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:48:42,843 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:48:42,844 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:48:42,862 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 16:48:42,866 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @51399530
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 16:48:48,987 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 16:49:03,764 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:15852
+2024-05-27 16:49:03,781 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 16:49:03,802 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 16:49:05,511 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 16:49:05,512 INFO  main                             - Install Module: sofaTracer
+2024-05-27 16:49:05,547 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:49:17,488 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 16:50:09,023 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 16:50:09,020 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:50:09,025 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 16:50:09,027 INFO  Thread-78                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 16:50:09,027 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 16:50:09,094 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:50:09,094 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:50:09,095 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:50:09,096 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 16:50:09,097 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 16:50:09,097 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 16:50:09,098 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 16:50:09,098 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 22:49:48,425 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:35044
+2024-05-27 22:49:48,440 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 22:49:48,459 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 22:49:48,525 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 22:49:48,525 INFO  main                             - Install Module: sofaTracer
+2024-05-27 22:49:48,537 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 22:49:48,539 WARN  main                             - error  fetch causeField in ProviderInvoker
+java.lang.reflect.InaccessibleObjectException: Unable to make field private java.lang.Throwable java.lang.Throwable.cause accessible: module java.base does not "opens java.lang" to unnamed module @5bf0d49
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Field.checkCanSetAccessible(Field.java:178)
+	at java.base/java.lang.reflect.Field.setAccessible(Field.java:172)
+	at com.alipay.sofa.rpc.filter.ProviderInvoker.<clinit>(ProviderInvoker.java:58)
+	at com.alipay.sofa.rpc.server.ProviderProxyInvoker.<init>(ProviderProxyInvoker.java:52)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.doExport(DefaultProviderBootstrap.java:162)
+	at com.alipay.sofa.rpc.bootstrap.DefaultProviderBootstrap.export(DefaultProviderBootstrap.java:106)
+	at com.alipay.sofa.rpc.config.ProviderConfig.export(ProviderConfig.java:524)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:90)
+	at com.alipay.sofa.rpc.boot.runtime.adapter.RpcBindingAdapter.outBinding(RpcBindingAdapter.java:42)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activateBinding(ServiceComponent.java:157)
+	at com.alipay.sofa.runtime.service.component.ServiceComponent.activate(ServiceComponent.java:126)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.doRegister(ComponentManagerImpl.java:160)
+	at com.alipay.sofa.runtime.component.impl.ComponentManagerImpl.register(ComponentManagerImpl.java:116)
+	at com.alipay.sofa.runtime.spring.factory.ServiceFactoryBean.doAfterPropertiesSet(ServiceFactoryBean.java:73)
+	at com.alipay.sofa.runtime.spring.factory.AbstractContractFactoryBean.afterPropertiesSet(AbstractContractFactoryBean.java:99)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1741)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:576)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:827)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+2024-05-27 22:50:23,300 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 22:51:47,150 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:31788
+2024-05-27 22:51:47,159 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 22:51:47,170 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 22:51:47,864 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 22:51:47,864 INFO  main                             - Install Module: sofaTracer
+2024-05-27 22:51:47,882 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 22:51:56,024 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 22:53:39,268 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 22:53:39,269 INFO  Thread-6                         - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 22:53:39,269 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 22:53:39,270 INFO  SOFA-RPC-ShutdownHook            - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 22:53:39,270 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 22:53:39,292 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 22:53:39,294 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 22:53:39,294 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 22:53:39,294 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 22:53:39,294 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 22:53:39,294 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 22:53:39,294 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 22:53:39,294 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 22:53:51,542 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:7216
+2024-05-27 22:53:51,550 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 22:53:51,559 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 22:53:52,290 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 22:53:52,290 INFO  main                             - Install Module: sofaTracer
+2024-05-27 22:53:52,298 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 22:53:58,956 INFO  main                             - service published.  interfaceId[com.alipay.sofa.rpc.samples.annotation.AnnotationService]; protocol[bolt]
+2024-05-27 22:54:12,472 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.6.1_20190830144631, PID is:28980
+2024-05-27 22:54:12,481 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 22:54:12,495 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 22:54:13,245 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 22:54:13,245 INFO  main                             - Install Module: sofaTracer
+2024-05-27 22:54:13,262 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 22:54:21,785 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 22:58:08,945 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 22:58:08,945 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 22:58:08,945 INFO  Thread-66                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-1
+2024-05-27 22:58:08,945 INFO  Thread-25                        - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 22:58:08,946 INFO  SOFA-RPC-ShutdownHook            - UnRefer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 22:58:08,967 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 22:58:08,967 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 22:58:08,967 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 22:58:08,968 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 22:58:08,971 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 22:58:08,971 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 22:58:08,971 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 22:58:08,972 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 23:10:59,953 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.8.3_20220304140022, PID is:24692
+2024-05-27 23:10:59,967 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 23:10:59,983 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 23:11:00,695 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 23:11:00,696 INFO  main                             - Install Module: sofaTracer
+2024-05-27 23:11:00,708 INFO  main                             - Export provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 23:11:34,815 INFO  main                             - Welcome! Loading SOFA RPC Framework : 5.8.3_20220304140022, PID is:33820
+2024-05-27 23:11:34,824 INFO  main                             - Install Module: fault-tolerance
+2024-05-27 23:11:34,837 INFO  main                             - Install Module: sofaTracer-resteasy
+2024-05-27 23:11:35,563 INFO  main                             - The module lookout does not need to be loaded.
+2024-05-27 23:11:35,563 INFO  main                             - Install Module: sofaTracer
+2024-05-27 23:11:35,587 INFO  main                             - Refer consumer config : bolt://com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl with bean id rpc-cfg-0
+2024-05-27 23:11:35,686 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 23:11:35,688 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 23:11:35,688 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 23:11:35,688 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 23:11:35,689 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...
+2024-05-27 23:12:47,209 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework catch JVM shutdown event, Run shutdown hook now.
+2024-05-27 23:12:47,210 INFO  SpringApplicationShutdownHook    - Unexport provider config : com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl:bolt with bean id rpc-cfg-0
+2024-05-27 23:12:47,213 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: fault-tolerance
+2024-05-27 23:12:47,213 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer-resteasy
+2024-05-27 23:12:47,213 INFO  SOFA-RPC-ShutdownHook            - Uninstall Module: sofaTracer
+2024-05-27 23:12:47,213 WARN  SOFA-RPC-ShutdownHook            - SOFA RPC Framework has been release all resources ...

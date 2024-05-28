@@ -1,0 +1,1 @@
+{"time":"2024-05-28 00:40:11.824","stat.key":{"method":"sayAnnotation","local.app":"samples","service":"com.alipay.sofa.rpc.samples.annotation.AnnotationService:1.0:annotationServiceImpl"},"count":2,"total.cost.milliseconds":10,"success":"N"}

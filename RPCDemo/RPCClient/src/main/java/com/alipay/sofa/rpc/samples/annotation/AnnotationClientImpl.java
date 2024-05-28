@@ -26,13 +26,14 @@ import org.springframework.stereotype.Component;
 @Component
 public class AnnotationClientImpl {
 
-    @SofaReference(interfaceType = AnnotationService.class, jvmFirst = false, binding = @SofaReferenceBinding(bindingType = "bolt"))
+    @SofaReference(interfaceType = AnnotationService.class, jvmFirst = false,uniqueId = "annotationServiceImpl", binding = @SofaReferenceBinding(bindingType = "bolt"))
+
+
     private AnnotationService annotationService;
 
     public String sayClientAnnotation(String str) {
 
         String result = annotationService.sayAnnotation(str);
-
         return result;
     }
 }

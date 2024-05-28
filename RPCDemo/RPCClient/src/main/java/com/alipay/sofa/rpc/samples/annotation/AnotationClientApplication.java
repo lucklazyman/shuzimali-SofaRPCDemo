@@ -24,12 +24,9 @@ import org.springframework.context.ApplicationContext;
 public class AnotationClientApplication {
 
     public static void main(String[] args) {
-
-
-
         SpringApplication springApplication = new SpringApplication(
             AnotationClientApplication.class);
-
         ApplicationContext applicationContext = springApplication.run(args);
+
     }
 }

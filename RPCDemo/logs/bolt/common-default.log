@@ -1,3 +1,81 @@
 2024-05-27 12:45:53,881 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
 2024-05-27 12:45:55,267 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
 2024-05-27 12:47:14,949 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 13:12:42,413 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 13:12:42,418 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:14:16,803 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:14:18,189 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:30:26,351 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:30:27,664 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:30:51,822 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 14:34:08,757 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 14:34:08,758 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:34:14,477 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:34:15,807 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:34:31,928 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-2] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 14:34:31,928 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-2] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:34:46,306 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:34:47,633 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:35:08,329 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 14:36:10,507 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 14:36:10,510 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:36:19,673 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:36:19,800 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:36:39,207 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 14:36:39,563 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 14:36:39,575 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:37:22,936 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 14:43:52,751 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 14:43:52,754 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:44:08,722 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:44:08,850 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:44:30,420 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 14:48:22,548 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:48:22,697 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:48:43,680 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 14:51:24,059 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 14:51:24,060 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 14:51:30,590 WARN  [AbstractConnectionFactory#217] [SOFA-CLI-RC-com.alipay.sofa.rpc.samples.annotation.AnnotationService-2-T1] Create connection to 10.138.6.95:12200 error!
+2024-05-27 14:51:32,642 WARN  [AbstractConnectionFactory#217] [SOFA-CLI-RC-com.alipay.sofa.rpc.samples.annotation.AnnotationService-2-T1] Create connection to 10.138.6.95:12200 error!
+2024-05-27 14:51:33,822 INFO  [DefaultConnectionManager#444] [RpcTaskScannerThread-2-thread-1] task(poolKey=10.138.6.95:12200) is not done, do not scan the connection pool
+2024-05-27 14:56:02,490 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 14:56:02,620 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 14:56:51,559 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 15:01:24,412 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 15:01:24,416 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 15:45:45,854 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 15:45:45,977 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 15:46:16,345 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 15:50:10,069 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 15:50:10,197 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 15:50:13,700 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 16:19:45,875 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 16:45:05,169 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 16:45:05,316 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 16:45:21,322 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 16:47:04,658 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 16:47:04,663 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 16:47:32,060 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 16:47:58,795 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 16:48:29,586 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 16:48:29,591 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 16:48:43,389 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 16:48:43,648 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 16:49:11,610 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 16:49:37,812 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 16:50:09,035 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 16:50:09,039 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 22:49:48,833 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 22:49:48,964 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 22:51:53,403 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 22:52:16,313 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 22:53:39,275 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 22:53:39,276 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 22:53:52,448 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 22:53:53,766 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-27 22:54:19,190 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-27 22:54:42,064 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 22:58:08,949 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-27 22:58:08,952 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
+2024-05-27 23:11:00,949 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-27 23:11:01,809 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200

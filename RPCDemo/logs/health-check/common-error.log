@@ -3,3 +3,363 @@
 2024-05-27 12:47:37,825 ERROR main                             - Readiness check result: fail
 2024-05-27 12:47:38,935 ERROR RMI TCP Connection(4)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1353775377":"passed"}; strict mode:true
 2024-05-27 12:47:38,946 ERROR RMI TCP Connection(4)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 14:31:14,549 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#280115946":"passed"}; strict mode:true
+2024-05-27 14:31:14,560 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 14:31:14,570 ERROR main                             - Readiness check result: fail
+2024-05-27 14:31:16,318 ERROR RMI TCP Connection(3)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#280115946":"passed"}; strict mode:true
+2024-05-27 14:31:16,318 ERROR RMI TCP Connection(3)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 14:35:31,015 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#520579010":"passed"}; strict mode:true
+2024-05-27 14:35:31,015 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 14:35:31,025 ERROR main                             - Readiness check result: fail
+2024-05-27 14:35:32,755 ERROR RMI TCP Connection(5)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#520579010":"passed"}; strict mode:true
+2024-05-27 14:35:32,755 ERROR RMI TCP Connection(5)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 14:37:45,585 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#2104395591":"passed"}; strict mode:true
+2024-05-27 14:37:45,586 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 14:37:45,597 ERROR main                             - Readiness check result: fail
+2024-05-27 14:37:47,337 ERROR RMI TCP Connection(5)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#2104395591":"passed"}; strict mode:true
+2024-05-27 14:37:47,338 ERROR RMI TCP Connection(5)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 14:44:53,289 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#615472488":"passed"}; strict mode:true
+2024-05-27 14:44:53,289 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 14:44:53,300 ERROR main                             - Readiness check result: fail
+2024-05-27 14:44:54,884 ERROR RMI TCP Connection(5)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#615472488":"passed"}; strict mode:true
+2024-05-27 14:44:54,884 ERROR RMI TCP Connection(5)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 14:49:06,235 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#1773172991":"passed"}; strict mode:true
+2024-05-27 14:49:06,236 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 14:49:06,247 ERROR main                             - Readiness check result: fail
+2024-05-27 14:49:07,696 ERROR RMI TCP Connection(2)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#1773172991":"passed"}; strict mode:true
+2024-05-27 14:49:07,696 ERROR RMI TCP Connection(2)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 14:57:14,600 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#345679407":"passed"}; strict mode:true
+2024-05-27 14:57:14,600 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 14:57:14,612 ERROR main                             - Readiness check result: fail
+2024-05-27 14:57:14,890 ERROR RMI TCP Connection(3)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#345679407":"passed"}; strict mode:true
+2024-05-27 14:57:14,891 ERROR RMI TCP Connection(3)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 15:46:37,613 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#2076167680":"passed"}; strict mode:true
+2024-05-27 15:46:37,622 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 15:46:37,638 ERROR main                             - Readiness check result: fail
+2024-05-27 15:46:38,077 ERROR RMI TCP Connection(3)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#2076167680":"passed"}; strict mode:true
+2024-05-27 15:46:38,077 ERROR RMI TCP Connection(3)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 15:50:34,962 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1181765819":"passed"}; strict mode:true
+2024-05-27 15:50:34,962 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 15:50:34,975 ERROR main                             - Readiness check result: fail
+2024-05-27 15:50:36,935 ERROR RMI TCP Connection(3)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-1181765819":"passed"}; strict mode:true
+2024-05-27 15:50:36,935 ERROR RMI TCP Connection(3)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 16:20:07,221 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-746617766":"passed"}; strict mode:true
+2024-05-27 16:20:07,221 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 16:20:07,235 ERROR main                             - Readiness check result: fail
+2024-05-27 16:20:09,331 ERROR RMI TCP Connection(3)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#-746617766":"passed"}; strict mode:true
+2024-05-27 16:20:09,331 ERROR RMI TCP Connection(3)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 16:35:38,726 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#889075583":"passed"}; strict mode:true
+2024-05-27 16:35:38,726 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 16:35:38,736 ERROR main                             - Readiness check result: fail
+2024-05-27 16:35:39,661 ERROR RMI TCP Connection(2)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#889075583":"passed"}; strict mode:true
+2024-05-27 16:35:39,661 ERROR RMI TCP Connection(2)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 16:45:47,492 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#394828954":"passed"}; strict mode:true
+2024-05-27 16:45:47,492 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 16:45:47,523 ERROR main                             - Readiness check result: fail
+2024-05-27 16:45:48,089 ERROR RMI TCP Connection(1)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#394828954":"passed"}; strict mode:true
+2024-05-27 16:45:48,089 ERROR RMI TCP Connection(1)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 16:47:58,711 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#1672454312":"passed","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed"}; strict mode:true
+2024-05-27 16:47:58,712 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 16:47:58,828 ERROR main                             - Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check.
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: Failed to start bolt server!
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:132)
+	at com.alipay.sofa.rpc.boot.container.ServerConfigContainer.startServers(ServerConfigContainer.java:88)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:74)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:42)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:97)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.lambda$afterReadinessCheckCallback$1(AfterReadinessCheckCallbackProcessor.java:78)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Iterator.forEachRemaining(Iterator.java:116)
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:541)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:79)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:122)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:96)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:45)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnotationClientApplication.main(AnotationClientApplication.java:33)
+Caused by: java.lang.IllegalStateException: ERROR: Failed to start the Server!
+	at com.alipay.remoting.AbstractRemotingServer.start(AbstractRemotingServer.java:74)
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:115)
+	... 36 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:130)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:558)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:254)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:446)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:750)
+2024-05-27 16:47:58,829 ERROR main                             - ReadinessCheckCallback readiness check result: failed.
+2024-05-27 16:47:58,829 ERROR main                             - Readiness check result: fail
+2024-05-27 16:48:01,079 ERROR RMI TCP Connection(4)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#1672454312":"passed","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed"}; strict mode:true
+2024-05-27 16:48:01,079 ERROR RMI TCP Connection(4)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 16:49:37,711 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#1548240598":"passed"}; strict mode:true
+2024-05-27 16:49:37,742 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 16:49:37,829 ERROR main                             - Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check.
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: Failed to start bolt server!
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:132)
+	at com.alipay.sofa.rpc.boot.container.ServerConfigContainer.startServers(ServerConfigContainer.java:88)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:74)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:42)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:97)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.lambda$afterReadinessCheckCallback$1(AfterReadinessCheckCallbackProcessor.java:78)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Iterator.forEachRemaining(Iterator.java:116)
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:541)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:79)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:122)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:96)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:45)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnotationClientApplication.main(AnotationClientApplication.java:33)
+Caused by: java.lang.IllegalStateException: ERROR: Failed to start the Server!
+	at com.alipay.remoting.AbstractRemotingServer.start(AbstractRemotingServer.java:74)
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:115)
+	... 36 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:130)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:558)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:254)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:446)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:750)
+2024-05-27 16:49:37,830 ERROR main                             - ReadinessCheckCallback readiness check result: failed.
+2024-05-27 16:49:37,830 ERROR main                             - Readiness check result: fail
+2024-05-27 16:49:39,593 ERROR RMI TCP Connection(2)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#1548240598":"passed"}; strict mode:true
+2024-05-27 16:49:39,593 ERROR RMI TCP Connection(2)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 22:52:16,278 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#889075583":"passed"}; strict mode:true
+2024-05-27 22:52:16,279 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 22:52:16,338 ERROR main                             - Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check.
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: Failed to start bolt server!
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:132)
+	at com.alipay.sofa.rpc.boot.container.ServerConfigContainer.startServers(ServerConfigContainer.java:88)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:74)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:42)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:97)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.lambda$afterReadinessCheckCallback$1(AfterReadinessCheckCallbackProcessor.java:78)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Iterator.forEachRemaining(Iterator.java:116)
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:541)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:79)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:122)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:96)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:45)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnotationClientApplication.main(AnotationClientApplication.java:33)
+Caused by: java.lang.IllegalStateException: ERROR: Failed to start the Server!
+	at com.alipay.remoting.AbstractRemotingServer.start(AbstractRemotingServer.java:74)
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:115)
+	... 36 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:130)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:558)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:254)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:446)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:750)
+2024-05-27 22:52:16,339 ERROR main                             - ReadinessCheckCallback readiness check result: failed.
+2024-05-27 22:52:16,339 ERROR main                             - Readiness check result: fail
+2024-05-27 22:52:17,411 ERROR RMI TCP Connection(6)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#889075583":"passed"}; strict mode:true
+2024-05-27 22:52:17,411 ERROR RMI TCP Connection(6)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 22:54:42,033 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#1911298823":"passed","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed"}; strict mode:true
+2024-05-27 22:54:42,033 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2024-05-27 22:54:42,071 ERROR main                             - Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check.
+com.alipay.sofa.rpc.core.exception.SofaRpcRuntimeException: Failed to start bolt server!
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:132)
+	at com.alipay.sofa.rpc.boot.container.ServerConfigContainer.startServers(ServerConfigContainer.java:88)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:74)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:42)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:97)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.lambda$afterReadinessCheckCallback$1(AfterReadinessCheckCallbackProcessor.java:78)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Iterator.forEachRemaining(Iterator.java:116)
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.reduce(ReferencePipeline.java:541)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:79)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:122)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:96)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:45)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at com.alipay.sofa.rpc.samples.annotation.AnotationClientApplication.main(AnotationClientApplication.java:33)
+Caused by: java.lang.IllegalStateException: ERROR: Failed to start the Server!
+	at com.alipay.remoting.AbstractRemotingServer.start(AbstractRemotingServer.java:74)
+	at com.alipay.sofa.rpc.server.bolt.BoltServer.start(BoltServer.java:115)
+	... 36 common frames omitted
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:461)
+	at sun.nio.ch.Net.bind(Net.java:453)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:130)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:558)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:254)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:446)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Thread.java:750)
+2024-05-27 22:54:42,071 ERROR main                             - ReadinessCheckCallback readiness check result: failed.
+2024-05-27 22:54:42,071 ERROR main                             - Readiness check result: fail
+2024-05-27 22:54:43,848 ERROR RMI TCP Connection(5)-26.113.100.101 - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:#414599042":"jvm#can not find corresponding jvm service","reference:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl#1911298823":"passed","service:com.alipay.sofa.rpc.samples.annotation.AnnotationService:annotationServiceImpl":"passed"}; strict mode:true
+2024-05-27 22:54:43,848 ERROR RMI TCP Connection(5)-26.113.100.101 - SOFABoot HealthChecker liveness check result: failed.
+2024-05-27 23:11:01,825 ERROR main                             - SOFA-BOOT-01-24002: Error occurred while doing ReadinessCheckCallback[rpcAfterHealthCheckCallback] check
+java.lang.NoClassDefFoundError: org/apache/curator/retry/ExponentialBackoffRetry
+	at com.alipay.sofa.rpc.registry.zk.ZookeeperRegistry.init(ZookeeperRegistry.java:221)
+	at com.alipay.sofa.rpc.boot.container.ProviderConfigContainer.publishAllProviderConfig(ProviderConfigContainer.java:144)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:86)
+	at com.alipay.sofa.rpc.boot.context.SofaBootRpcStartListener.onApplicationEvent(SofaBootRpcStartListener.java:40)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:178)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:171)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:429)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:386)
+	at com.alipay.sofa.rpc.boot.health.RpcAfterHealthCheckCallback.onHealthy(RpcAfterHealthCheckCallback.java:46)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.doHealthCheckCallback(AfterReadinessCheckCallbackProcessor.java:110)
+	at com.alipay.sofa.healthcheck.AfterReadinessCheckCallbackProcessor.afterReadinessCheckCallback(AfterReadinessCheckCallbackProcessor.java:80)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.readinessHealthCheck(ReadinessCheckListener.java:190)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onContextRefreshedEvent(ReadinessCheckListener.java:139)
+	at com.alipay.sofa.healthcheck.ReadinessCheckListener.onApplicationEvent(ReadinessCheckListener.java:128)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:178)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:171)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:145)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:429)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:386)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:949)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:594)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:409)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at com.alipay.sofa.rpc.samples.annotation.AnnotationServerApplication.main(AnnotationServerApplication.java:33)
+Caused by: java.lang.ClassNotFoundException: org.apache.curator.retry.ExponentialBackoffRetry
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 27 common frames omitted
+2024-05-27 23:11:01,827 ERROR main                             - SOFA-BOOT-01-24000: ReadinessCheckCallback readiness check result: failed
+2024-05-27 23:11:01,827 ERROR main                             - SOFA-BOOT-01-20000: Readiness check result: fail

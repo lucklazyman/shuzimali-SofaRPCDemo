@@ -1,0 +1,18 @@
+2024-05-28 00:31:58,890 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-28 00:31:58,929 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-28 00:32:40,993 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-28 00:32:41,257 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=192.168.186.1:12200, result=true, cause=null
+2024-05-28 00:32:41,267 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 192.168.186.1:12200
+2024-05-28 00:34:26,488 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-28 00:34:26,526 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-28 00:35:59,153 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-28 00:36:00,496 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-28 00:38:22,712 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-28 00:38:24,055 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-28 00:40:04,532 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-28 00:40:05,855 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-28 00:40:47,004 WARN  [AbstractRemotingServer#64] [main] Prepare to start server on port 12200 
+2024-05-28 00:40:48,304 WARN  [AbstractRemotingServer#66] [main] Server started on port 12200
+2024-05-28 00:41:09,729 WARN  [AbstractConnectionFactory#185] [SOFA-CLI-CONN-com.alipay.sofa.rpc.samples.annotation.AnnotationService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2024-05-28 00:41:33,429 INFO  [Connection$1#308] [bolt-netty-client-worker-1-thread-1] Close the connection to remote address=10.138.6.95:12200, result=true, cause=null
+2024-05-28 00:41:33,432 WARN  [DefaultConnectionManager#342] [bolt-netty-client-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 10.138.6.95:12200
